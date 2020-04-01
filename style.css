@@ -1,0 +1,18 @@
+h1{
+    color:pink;
+}
+p{
+    color:goldenrod;
+}
+.desc{
+    color:red;
+    font-size:30px;
+}
+.pic{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+div{
+    border: 5px solid red;
+}
